@@ -1,6 +1,6 @@
 # Chess Project
 
-Chess Game. It also contains the play with computer feature. it also has two player feature.
+This project is a comprehensive Chess game application featuring both two-player and play-with-computer modes.
 
 ## Description
 
