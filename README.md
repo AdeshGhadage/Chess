@@ -83,10 +83,6 @@ Once the application is set up:
 
 Contributions are welcome! If you would like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the [License Name]. For more details, see [LICENSE](LICENSE).
-
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to [Your Email Address].
+If you have any questions or suggestions, feel free to reach out.
