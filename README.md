@@ -25,7 +25,7 @@ https://github.com/AdeshGhadage/Chess/assets/110734052/3fc62162-8f56-4244-bec5-9
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/AdeshGhadage/frontend.git
+    git clone https://github.com/AdeshGhadage/Chess.git
     ```
 
 2. **Start register.html file using live server:**
@@ -38,7 +38,7 @@ https://github.com/AdeshGhadage/Chess/assets/110734052/3fc62162-8f56-4244-bec5-9
 1. **Clone the backend repository:**
 
     ```bash
-    git clone https://github.com/AdeshGhadage/backend.git
+    git clone https://github.com/AdeshGhadage/Chess.git
     ```
 
 2. **Install MongoDB:**
